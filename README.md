@@ -1,3 +1,3 @@
 # Putrus
 this is my putrus project
-Director-Ajeet Kumar
+Director-Ajeet Kumar patel
